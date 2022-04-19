@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttemperatureapp/static/css/main.e8cce421.css",
+    "main.js": "/reacttemperatureapp/static/js/main.09aa18fe.js",
+    "index.html": "/reacttemperatureapp/index.html",
+    "main.e8cce421.css.map": "/reacttemperatureapp/static/css/main.e8cce421.css.map",
+    "main.09aa18fe.js.map": "/reacttemperatureapp/static/js/main.09aa18fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cce421.css",
+    "static/js/main.09aa18fe.js"
+  ]
+}
