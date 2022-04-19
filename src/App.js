@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Temperature from './Components/Temperature/Temerature';
+import Temperature from './Components/Temperature/Temperature';
 
 function App() {
   return (
