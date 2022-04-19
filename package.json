@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Captain890.github.io/temp_app_react.git",
+  "homepage": "https://Captain890.github.io/temperaure_app_react",
   "name": "temp-app",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  
   },
   "eslintConfig": {
     "extends": [
